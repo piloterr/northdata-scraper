@@ -3,6 +3,6 @@
 # Usage: PILOTERR_API_KEY=your-key ./company.sh
 set -euo pipefail
 
-curl -sS -G "https://api.piloterr.com/v2/northdata/company" \
+curl -sS --fail-with-body -G "https://api.piloterr.com/v2/northdata/company" \
   -H "x-api-key: ${PILOTERR_API_KEY}" \
   --data-urlencode 'query=Maison Boinaud'
