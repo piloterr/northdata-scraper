@@ -274,13 +274,13 @@ Example response from the API reference, abridged — real values depend on the 
       "url": "https://www.northdata.com/?id=6513855692",
       "date": "2026-03-24",
       "category": 9,
-      "description": "Director Maria Varsellona"
+      "description": "Director Alex Martin"
     },
     {
       "url": "https://www.northdata.com/?id=6513855692",
       "date": "2023-08-04",
       "category": 9,
-      "description": "Director Helen Mccabe"
+      "description": "Director Jordan Lee"
     }
   ],
   "subject": "Aircraft and spacecraft repair and maintenance",
@@ -586,7 +586,7 @@ Any language that can make an HTTP request. This README shows Python and TypeScr
 - [Europages Scraper API](https://github.com/piloterr/europages-scraper)
 - [Fiverr Scraper API](https://github.com/piloterr/fiverr-scraper)
 - [G2 Scraper API](https://github.com/piloterr/g2-scraper)
-- [github-scraper](https://github.com/piloterr/github-scraper)
+- [GitHub Scraper API](https://github.com/piloterr/github-scraper)
 - [All Piloterr scrapers on GitHub](https://github.com/piloterr)
 
 ## Support
